@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=texstudio
+Comment=texstudio
+Exec=/usr/bin/texstudio
+Icon=/usr/share/texstudio/texstudio48x48.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;

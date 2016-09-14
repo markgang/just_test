@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TexMaker
+Comment=texmaker
+Exec=/usr/bin/texmaker
+Icon=/usr/share/pixmaps/texmaker.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;

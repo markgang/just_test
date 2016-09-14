@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=jupyter-notebook
+Comment=jupyter-notebook
+Exec=/home/mg/anaconda2/bin/jupyter-notebook
+Icon=/home/mg/anaconda2/pkgs/notebook-4.2.1-py27_0/info/icon.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;	

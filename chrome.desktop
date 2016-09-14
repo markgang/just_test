@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=chrome
+Comment=chrome
+Exec=/opt/google/chrome/chrome
+Icon=/opt/google/chrome/product_logo_48.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;

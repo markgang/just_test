@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Foxit Reader
+Comment=Foxit Reader
+Exec=/opt/foxitsoftware/foxitreader/FoxitReader
+Icon=/opt/foxitsoftware/foxitreader/images/FoxitReader-64x64.ico
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;

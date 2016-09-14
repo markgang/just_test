@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=iptux
+Comment=iptux
+Exec=/usr/local/bin/iptux
+Icon=/home/mg/mg_setups/feiq/iptux-master/pixmaps/icon/icon-tux.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;

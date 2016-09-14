@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Spyder
+Comment=Spyder
+Exec=/home/mg/anaconda2/bin/spyder
+Icon=/home/mg/anaconda2/share/pixmaps/spyder.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;

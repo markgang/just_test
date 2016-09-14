@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=zotero
+GenericName=zotero
+Comment=zotero
+Exec=/home/mg/mg_setups/zotera/Zotero_linux-x86_64/zotero
+Icon=/home/mg/mg_setups/zotera/Zotero_linux-x86_64/chrome/icons/default/main-window.ico
+Terminal=false
+Categories=Development;zotero;
